@@ -1,8 +1,10 @@
-# React + Vite
+# Song List Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+That creates, updates, and delete song lists 
+the project done by using 
+✅ React
+✅ Redux toolkit
+✅ Redux saga
+✅ Emotion and custom css for styling
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Capture](https://github.com/user-attachments/assets/ee4e34be-73f1-45a5-b350-9d923e719cf2)
